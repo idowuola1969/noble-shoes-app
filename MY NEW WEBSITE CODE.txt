@@ -1,0 +1,133 @@
+
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Aristocrat Oxford | Men's Full-Grain Leather Dress Shoe | NOBLE SHOES</title>
+    <meta name="description" content="The definitive full-grain leather oxford. Featuring Goodyear Welt construction and supreme comfort. Shop this timeless, durable dress shoe today.">
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+
+    <header class="main-header">
+        </header>
+
+    <section class="breadcrumbs">
+        <p>Home > Shop > Men's > The Aristocrat Oxford</p>
+    </section>
+
+    <section class="product-detail-container">
+        
+        <div class="product-image-gallery">
+            <div class="main-image">
+                
+            </div>
+            <div class="thumbnails">
+                
+                
+                
+                </div>
+        </div>
+
+        <div class="product-purchase-module">
+            
+            <h1>The Aristocrat | Classic Full-Grain Leather Oxford</h1>
+            <p class="price">$449</p>
+
+            <div class="trust-signals">
+                ⭐⭐⭐⭐⭐ 4.9/5 Stars (187 Reviews)
+            </div>
+
+            <div class="options-group">
+                <label for="size">Size (US):</label>
+                <select id="size">
+                    <option value="">Select Size</option>
+                    <option value="9">9</option>
+                    </select>
+                <a href="sizing-guide.html" class="sizing-link">Need Help? View Sizing Guide</a>
+            </div>
+
+            <div class="options-group">
+                <label for="color">Color:</label>
+                <select id="color">
+                    <option value="black">Black</option>
+                    <option value="cognac">Cognac</option>
+                </select>
+            </div>
+
+            <p class="stock-status low-stock">Low Stock: Only 3 pairs left in size 10</p>
+            
+            <div class="cta-area">
+                <input type="number" value="1" min="1" class="quantity-input">
+                <button class="cta-button primary-cta add-to-cart">ADD TO CART</button>
+            </div>
+            
+            <div class="reassurance-bar">
+                <p>🔒 Secure Checkout</p>
+                <p>🚚 Free 45-Day Returns</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="product-info-tabs">
+        <div class="tab-selectors">
+            <button class="tab-button active" data-tab="desc">Description & Style</button>
+            <button class="tab-button" data-tab="materials">Materials & Craftsmanship</button>
+            <button class="tab-button" data-tab="fit">Sizing & Fit Advice</button>
+            <button class="tab-button" data-tab="shipping">Shipping & Returns</button>
+        </div>
+
+        <div id="desc" class="tab-content active">
+            <p>The Aristocrat is the purest expression of the Noble style. Its closed lacing system offers a refined, sharp silhouette perfect for boardroom meetings and formal events. The leather develops character with every wear.</p>
+        </div>
+
+        <div id="materials" class="tab-content">
+            <ul>
+                <li>**Upper:** Premium Italian Full-Grain Calfskin Leather.</li>
+                <li>**Construction:** Genuine Goodyear Welted Construction (Resoleable).</li>
+                <li>**Lining:** Soft, breathable leather lining.</li>
+                <li>**Insole:** Cushioned, supportive footbed.</li>
+            </ul>
+        </div>
+
+        <div id="fit" class="tab-content">
+            <p>We recommend ordering your standard dress shoe size. The Aristocrat is built on a refined last. Please consult our <a href="sizing-guide.html">Sizing & Fit Guide</a> before ordering.</p>
+        </div>
+
+        <div id="shipping" class="tab-content">
+            <p>Free Standard Shipping on all orders over $100. If the fit isn't perfect, enjoy Free Returns and Exchanges within 45 days of purchase. See our full policy <a href="shipping-returns.html">HERE</a>.</p>
+        </div>
+    </section>
+    
+    <section class="upsell-section">
+        <h2>Complete The Look</h2>
+        <div class="upsell-product-grid">
+            <div class="upsell-card">
+                
+                <h4>Matching Full-Grain Belt</h4>
+                <p>$95</p>
+                <button class="quick-add">Add to Cart</button>
+            </div>
+            <div class="upsell-card">
+                
+                <h4>Premium Leather Care Kit</h4>
+                <p>$40</p>
+                <button class="quick-add">Add to Cart</button>
+            </div>
+        </div>
+    </section>
+
+    <section class="customer-reviews">
+        <h2>Customer Reviews (187)</h2>
+        <div class="review-widget-placeholder">
+            [Review Widget Display: Submit Review Button, Filter by Rating, Review List]
+        </div>
+    </section>
+
+    <footer class="main-footer">
+        </footer>
+
+</body>
+</html>
